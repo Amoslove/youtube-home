@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+  input{
+    width: 600px;
+    align-items: center;
+  }
+}
+
+
